@@ -2,7 +2,7 @@
   "name": "fitness-tracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rowanmas.github.io/fitness-tracker",
+  "homepage": "https://fitness-tracker-887b1.web.app",
   "dependencies": {
     "@popperjs/core": "^2.11.8",
     "@testing-library/dom": "^10.4.0",
